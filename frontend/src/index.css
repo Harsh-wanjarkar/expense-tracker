@@ -1,0 +1,12 @@
+
+/* Global reset and base styles are defined in App.css. */
+html {
+  min-width: 320px;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
